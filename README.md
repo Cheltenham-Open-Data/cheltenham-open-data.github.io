@@ -1,13 +1,5 @@
 
-## Sites
+## Cheltenham Open Data
 
-- [Fix my street](/fix-my-street)
-- [Flood warnings](/flood-warnings)
-- [Food bank](/food-bank)
-- [Terrorism](/terrorism)
+Go to the website to see more.
 
-
-
-## Farmer's Market
-
-The market will run on the 2nd and last Friday of every month, from January to November and then on the 2nd and 3rd Friday in December.
